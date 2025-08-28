@@ -1,5 +1,5 @@
 # Rena-BusinessCardApp
-Screen record of the app running on device/umulator
+Screen record of the app running on device/umulator \n
 https://github.com/user-attachments/assets/df55da0a-7669-4f1b-9af3-ada86be1b622
 
 <img width="557" height="928" alt="Image" src="https://github.com/user-attachments/assets/4d1b1366-7f98-46d6-b5bb-ee6fbc967336" />
